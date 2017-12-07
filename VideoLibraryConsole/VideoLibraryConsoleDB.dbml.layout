@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="VideoLibraryConsole">
+  <DataContextMoniker Name="/VideoLibraryConsoleDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ad776438-7dd1-41c3-af40-10f3eef9b4b9" absoluteBounds="2.375, 1.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/VideoLibraryConsoleDataContext/Videos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8a6859c2-d0c5-4ec7-b3ed-e93edc31f589" absoluteBounds="2.39, 2.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
